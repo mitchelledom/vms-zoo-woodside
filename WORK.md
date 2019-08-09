@@ -3,6 +3,28 @@
 ## Dinesh
 
 ## Hugo
+### In Progress
+- [ ]  PA showcase preparation
+- [ ]  NetScaler Change Upgrade AZ-A (10/08/2019)
+- [ ]  NetScaler Change Upgrade AZ-B (17/08/2019)
+- [ ]  Follow up NetScaler Tech Support info
+- [ ]  Follow NetScaler CPU Yield Setup best practices
+- Alarms Deployment
+  - [x]  PAs
+  - [x]  Panoramas
+  - [x]  NetScalers
+  - [x]  DLP BLuecoat Proxies
+  - [x]  ASG PAs
+  - [ ]  ASG NetScalers
+- [ ] Commit Alarm changes to coderepo
+- ASG Alarms test in PP
+  - [ ]  PAs
+  - [ ]  NetScalers
+- [ ]  PA Documentation
+- [ ]  RADA Certificates import for NetScalers
+- [ ]  Investigate AD Science service Account lockouts - 
+- [ ]  Rsyslog NetScalers
+
 
 ## Luke
 ### In Progress
