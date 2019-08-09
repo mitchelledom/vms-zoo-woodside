@@ -9,6 +9,7 @@
 - [ ]  NetScaler Change Upgrade AZ-B (17/08/2019)
 - [ ]  Follow up NetScaler Tech Support info
 - [ ]  Follow NetScaler CPU Yield Setup best practices
+- [ ]  NetScaler GSLB Lab
 - Alarms Deployment
   - [x]  PAs
   - [x]  Panoramas
