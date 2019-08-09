@@ -69,7 +69,11 @@
 
 ## Sunny
 ### In Progress
-* Windows Server Onboarding
+* Windows Server Patch Onboarding
 * Secops CIS (Open RDP rule)
 * Secops CIS (MFA rule)
 * Daily checks
+
+### BackLog
+* Linux Server Onboarding (Documentation changes) 
+
