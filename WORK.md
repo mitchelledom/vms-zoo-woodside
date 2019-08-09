@@ -7,7 +7,6 @@
 ## Luke
 ### In Progress
 * Monthly reporting, First Draft completed 9th Friday
-* Create work.md and vmz-zoo-woodside to migrate client relate scripts
 * Review the patch on boarding documentation with Sunny and Michael for Linux and Windows
 * Catchup with Rick Ross about the CIS and AMI compliance checks
 * Catchup with Gus regarding CPM licences
@@ -34,7 +33,8 @@
 * CDS account backup merge for sci cpm, and snapshot cleanup
 * Splunk log project, require clarification around work
 
-
+### Done
+* Create work.md and vmz-zoo-woodside to migrate client relate scripts
 
 ## Micheal
 
