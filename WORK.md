@@ -16,7 +16,7 @@
   - [x]  DLP BLuecoat Proxies
   - [x]  ASG PAs
   - [ ]  ASG NetScalers
-- [ ] Commit Alarm changes to coderepo
+- [ ] Commit Alarm changes and new YAML files to coderepo
 - ASG Alarms test in PP
   - [ ]  PAs
   - [ ]  NetScalers
