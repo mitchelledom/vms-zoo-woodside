@@ -46,3 +46,8 @@
 ## Sufiyan
 
 ## Sunny
+### In Progress
+* Windows Server Onboarding
+* Secops CIS (Open RDP rule)
+* Secops CIS (MFA rule)
+* Daily checks
