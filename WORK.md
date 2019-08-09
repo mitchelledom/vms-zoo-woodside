@@ -25,6 +25,7 @@
 * JIRA Cleanup with team
 * Catchup Mike for current work
 * Bake work for SOE improvements - Viet is it Dis/CI spend?
+* SMP document get Jenny and Rick to complete
 * Task lists for team, daily,weekly,monthly refactor, add new items
 * Quaterly checks 
 * Review approach for disabling yum.cron across RedHat servers
